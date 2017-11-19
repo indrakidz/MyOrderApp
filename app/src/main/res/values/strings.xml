@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Order App</string>
+    <string name="coklat">Coklat</string>
+    <string name="krim">Krim</string>
+    <string name="order">Order</string>
+    <string name="rp_0">Rp 0</string>
+    <string name="harga">Harga</string>
+    <string name="kurang">-</string>
+    <string name="kosong">0</string>
+    <string name="tambah">+</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="toppings">Toppings</string>
+    <string name="nama">Nama</string>
+</resources>
